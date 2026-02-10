@@ -1,0 +1,7 @@
+{
+  "name": "Copy of V-Styler Pro: Virtual Try-On",
+  "description": "A high-fidelity virtual try-on system that uses identity-preserving diffusion to drape garments onto user portraits with studio-quality realism.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
